@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhinandan</h1>
 <h3 align="center">DevOps Engineer | Tech Enthusiast | Anime Enjoyer</h3>
 
-- 🌱 I’m currently learning **CCNA**
+- 🌱 I’m currently learning **CCNA**, **Cloud Security**
 
 - 📫 How to reach me **contactabhinandanv@gmail.com**
 
